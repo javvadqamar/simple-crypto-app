@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Live project link [Simple Crypto App](https://main--resplendent-meringue-2b08c4.netlify.app/).
+
 ## Available Scripts
 
 In the project directory, you can run:
